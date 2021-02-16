@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/Albarbari/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammed%20Al%20Barbari-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://moe.grodriket.com/"><img alt="Website" src="https://img.shields.io/badge/Website-moe.grodriket.com-blue?style=flat-square&logo=google-chrome"></a>
 <br />
-  
+</p>
   
 ## Install
 
@@ -25,3 +25,14 @@ go get -u github.com/m4dm0e/dirdar
 
 Or you can [download a release](https://github.com/m4dm0e/dirdar/releases).
 To make it easier to execute you can put the binary in your `$PATH`.
+
+## Tool screen:
+* Linux
+
+
+  <img src="statics/img/firstScreen.png" alt="linux" ></a>
+
+
+* Windows
+
+  <img src="statics/img/windows.JPG" alt="windows" ></a>
