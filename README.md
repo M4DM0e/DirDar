@@ -41,8 +41,8 @@ To make it easier to execute you can put the binary in your `$PATH`.
 ## Help&Flags
 
 ```
-  -c int
-    	Concurrency - to control the requests make fast or slow  (default 10)
+  -threads int
+    	Number of threads (Defaulf 40)
   -err
     	If you want to show errors!(Includes 404 errors) [True-False]
   -only-ok
