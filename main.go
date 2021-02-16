@@ -333,9 +333,9 @@ func main() {
 
 	////| Requests TimeOut
 	var TimeOut int
-	flag.IntVar(&TimeOut, "t", 10000, "Set the timeout of the requests")
+	flag.IntVar(&TimeOut, "t", 10000, "Set the timeout of the requests (Millisecond)")
 	var con int
-	flag.IntVar(&con, "c", 10, "Concurrency - to control the requests make fast or slow ")
+	flag.IntVar(&con, "threads", 40, "Number of threads")
 	var wl string
 	flag.StringVar(&wl, "wl", "", "Forbidden directories WordList")
 
