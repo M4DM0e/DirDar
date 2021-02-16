@@ -36,3 +36,36 @@ To make it easier to execute you can put the binary in your `$PATH`.
 * Windows
 
   <img src="statics/img/windows.JPG" alt="windows" ></a>
+  
+  
+## Help&Flags
+
+```
+  -c int
+    	Concurrency - to control the requests make fast or slow  (default 10)
+  -err
+    	If you want to show errors!(Includes 404 errors) [True-False]
+  -only-ok
+    	Print out only OK (Bypassed and dir listing) 
+  -single string
+    	Only scan single target e.g (-single https://example.com/)
+  -t int
+    	Set the timeout of the requests (default 10000)
+  -wl string
+    	Forbidden directories WordList
+
+```
+
+* Screenshot
+
+  <img src="statics/img/help.png" alt="help" ></a>
+
+
+## Other screenshots
+
+  <img src="statics/img/scanning.png" alt="linux" ></a>
+
+  <img src="statics/img/error.png" alt="linux" ></a>
+
+
+
