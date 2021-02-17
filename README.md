@@ -1,7 +1,23 @@
 # DirDar v1.0
+  
+## Description
+<b>🏴‍☠️ bypass forbidden directories - find and identify dir listing - you can use it as directory brute-forcer as well</b><br>
+
+### Compatabily
+This tool is compatible with all kind of operating systems as long as you have GO compiler installed
+
+## Install
+
+You can use this command if you have Go installed and configured.
+
+```
+go get -u github.com/m4dm0e/dirdar
+```
+
+Or you can [download a release](https://github.com/m4dm0e/dirdar/releases).
+To make it easier to execute you can put the directory to the binary in your environment variable `%PATH%`.
 
 <p align="center">
-  <b>🏴‍☠️ bypass forbidden directories - find and identify dir listing - you can use it as directory brute-forcer as well</b><br>
     <sub>
   </sub>
   <br>
@@ -13,18 +29,6 @@
 <a href="https://www.linkedin.com/in/Albarbari/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammed%20Al%20Barbari-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://moe.grodriket.com/"><img alt="Website" src="https://img.shields.io/badge/Website-moe.grodriket.com-blue?style=flat-square&logo=google-chrome"></a>
 <br />
-</p>
-  
-## Install
-
-Run this command if you have Go installed and configured.
-
-```
-go get -u github.com/m4dm0e/dirdar
-```
-
-Or you can [download a release](https://github.com/m4dm0e/dirdar/releases).
-To make it easier to execute you can put the binary in your `$PATH`.
 
 ## Tool screen:
 * Linux
