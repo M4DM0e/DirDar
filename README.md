@@ -60,6 +60,11 @@ To make it easier to execute you can put the binary in your `$PATH`.
 
   <img src="statics/img/help.png" alt="help" ></a>
 
+## Bugs found by DirDar: (Will share the write up ASAP)
+* BackUp files at [MTN Group](https://hackerone.com/mtn_group?type=team) (Triaged)
+* OLD php scripts to SQLi at [MTN Group](https://hackerone.com/mtn_group?type=team) (Triaged)
+* OLD Files to information disclosure at [BOSCH](http://psirt.bosch.com/) (Triaged)
+
 
 ## Review:
 
