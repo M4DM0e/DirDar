@@ -61,11 +61,8 @@ To make it easier to execute you can put the binary in your `$PATH`.
   <img src="statics/img/help.png" alt="help" ></a>
 
 
-## Other screenshots
+## Review:
 
-  <img src="statics/img/scanning.png" alt="linux" ></a>
-
-  <img src="statics/img/error.png" alt="linux" ></a>
-
+[![asciicast](https://asciinema.org/a/391851.svg)](https://asciinema.org/a/391851)
 
 
