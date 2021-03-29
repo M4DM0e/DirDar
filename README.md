@@ -27,7 +27,7 @@ To make it easier to execute you can put the directory to the binary in your env
   <br><br />
   <a href="https://twitter.com/m4dm0e"><img alt="Website" src="https://img.shields.io/twitter/follow/m4dm0e.svg?style=flat-square&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/Albarbari/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammed%20Al%20Barbari-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://moe.grodriket.com/"><img alt="Website" src="https://img.shields.io/badge/Website-moe.grodriket.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://m4dm0e.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-m4dm0e.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <br />
 
 ## Tool screen:
