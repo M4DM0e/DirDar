@@ -205,7 +205,7 @@ func ForbidFinder(domain string, wl string, nf bool, TimeOut int, OnlyOk bool, i
 
 func do3r(domain string, path string, TimeOut int, OnlyOk bool) {
 	ByPass := []string{"%20" + path + "%20/", "%2e/" + path, "./" + path + "/./", "/" + path + "//", path + "..;/", path + "./", path + "/", path + "/*", path + "/.", path + "//", path + "?", path + "???", path + "%20/", path + "/%25", path + "/.randomstring"}
-	ByPassWithHeader := []string{"X-Custom-IP-Authorization", "X-Originating-IP", "X-Forwarded-For", "X-Remote-IP", "X-Client-IP", "X-Host", "X-Forwarded-Host"}
+	ByPassWithHeader := []string{"X-Custom-IP-Authorization", "X-Originating-IP", "X-Forwarded-For", "X-Remote-IP", "X-Client-IP", "X-Host", "X-Forwarded-Host" , "X-ProxyUser-Ip" , "X-Original-Host" , "X-Real-Ip"}
 	timeout := time.Duration(TimeOut * 1000000)
 	tr := &http.Transport{
 		MaxIdleConns:        20,
